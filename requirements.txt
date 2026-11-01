@@ -138,3 +138,4 @@ websocket-client
 wheel
 widgetsnbextension
 wrapt
+jupyterlab-code-folding
