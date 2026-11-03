@@ -139,3 +139,4 @@ wheel
 widgetsnbextension
 wrapt
 jupyterlab-code-folding
+voila
